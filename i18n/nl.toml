@@ -1,0 +1,23 @@
+[readmore]
+other = "Lees verder"
+
+[translations]
+other="Vertaling"
+
+[error404]
+other = "Sorry maar de content lijkt te zijn verhuisd."
+
+[yourname]
+other = "Uw naam"
+
+[youremail]
+other = "Uw e-mail"
+
+[subject]
+other = "Onderwerp"
+
+[yourmessage]
+other = "Uw bericht
+
+[sendnow]
+other = "Verstuur nu"
