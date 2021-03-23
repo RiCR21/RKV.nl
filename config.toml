@@ -1,4 +1,4 @@
-baseURL = "https://reverent-lovelace-7702d4.netlify.app"
+baseURL = ""
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
